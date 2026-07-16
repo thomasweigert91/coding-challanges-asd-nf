@@ -26,12 +26,6 @@ npm run next {4,5,6,7,8}
 npm run next hard
 ```
 
-You can run your code by using bun, tsx or the following npm script:
-
-```bash
-npm run try challenges/{challenge-name}.ts
-```
-
 To get the solution for a given challenge, run:
 
 ```bash

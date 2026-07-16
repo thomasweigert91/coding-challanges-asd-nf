@@ -1,9 +1,14 @@
 {
   "4kyu": [],
   "5kyu": [],
-  "6kyu": [],
+  "6kyu": [
+    "count-letters-in-string",
+    "sum-two-arrays"
+  ],
   "7kyu": [
-    "by-3,-or-not-by-3-that-is-the-question"
+    "form-the-minimum",
+    "square-every-digit",
+    "broken-sequence"
   ],
   "8kyu": []
 }
