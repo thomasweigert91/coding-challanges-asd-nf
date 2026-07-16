@@ -1,11 +1,14 @@
 {
-  "4kyu": [],
+  "4kyu": [
+    "sum-by-factors"
+  ],
   "5kyu": [],
   "6kyu": [
     "count-letters-in-string",
     "sum-two-arrays",
     "who-likes-this",
-    "multiples-of-3-or-5"
+    "multiples-of-3-or-5",
+    "your-order,-please"
   ],
   "7kyu": [
     "form-the-minimum",
