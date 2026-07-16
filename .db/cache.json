@@ -3,7 +3,9 @@
   "5kyu": [],
   "6kyu": [
     "count-letters-in-string",
-    "sum-two-arrays"
+    "sum-two-arrays",
+    "who-likes-this",
+    "multiples-of-3-or-5"
   ],
   "7kyu": [
     "form-the-minimum",
