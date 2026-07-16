@@ -8,7 +8,8 @@
     "sum-two-arrays",
     "who-likes-this",
     "multiples-of-3-or-5",
-    "your-order,-please"
+    "your-order,-please",
+    "convert-string-to-camel-case"
   ],
   "7kyu": [
     "form-the-minimum",
