@@ -20,5 +20,11 @@
     "square-every-digit",
     "broken-sequence"
   ],
-  "8kyu": []
+  "8kyu": [
+    "reversed-strings",
+    "l1-set-alarm",
+    "count-odd-numbers-below-n",
+    "beginner-reduce-but-grow",
+    "closest-elevator"
+  ]
 }
