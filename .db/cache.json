@@ -1,5 +1,7 @@
 {
-  "4kyu": ["sum-by-factors"],
+  "4kyu": [
+    "sum-by-factors"
+  ],
   "5kyu": [],
   "6kyu": [
     "count-letters-in-string",
@@ -9,8 +11,14 @@
     "your-order,-please",
     "convert-string-to-camel-case",
     "are-they-the-same",
-    "find-within-array"
+    "find-within-array",
+    "count-duplicates-in-a-string",
+    "build-tower"
   ],
-  "7kyu": ["form-the-minimum", "square-every-digit", "broken-sequence"],
+  "7kyu": [
+    "form-the-minimum",
+    "square-every-digit",
+    "broken-sequence"
+  ],
   "8kyu": []
 }
