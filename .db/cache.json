@@ -13,7 +13,9 @@
     "are-they-the-same",
     "find-within-array",
     "count-duplicates-in-a-string",
-    "build-tower"
+    "build-tower",
+    "multiplication-table",
+    "unique-in-order"
   ],
   "7kyu": [
     "form-the-minimum",
